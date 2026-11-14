@@ -1,5 +1,5 @@
-:HL["/kokuho-explorer-pages/_next/static/chunks/3ns_ta648jeaq.css","style"]
+:HL["/kokuho-explorer-pages/_next/static/chunks/3xbi6ho5g8cse.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"craft-183","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"treasures","h":131168,"c":"$Q2"}]]
-0:{"b":"kiEKW0Ak7mIVNdIMKXKbA","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"-hzk85yEqUvnl61p8Qmv4","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
