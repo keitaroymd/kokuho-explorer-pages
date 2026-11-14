@@ -1,3 +1,3 @@
-:HL["/kokuho-explorer-pages/_next/static/chunks/25es8vlk9ey54.css","style"]
+:HL["/kokuho-explorer-pages/_next/static/chunks/3jaj0-hum85tr.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"d7DPhkDC1Rl7qIcQQcKXc","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"ST9kiFzvcXN8WLPnKyDaP","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
