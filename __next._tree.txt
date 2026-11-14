@@ -1,0 +1,3 @@
+:HL["/kokuho-explorer-pages/_next/static/chunks/3ns_ta648jeaq.css","style"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"kiEKW0Ak7mIVNdIMKXKbA","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

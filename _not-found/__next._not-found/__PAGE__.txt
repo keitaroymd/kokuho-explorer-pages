@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:"/kokuho-explorer-pages/_next/static/chunks/222way901mvk9.js"
+3:I[22016,["$2"],""]
+4:"VisitedSyncStatus"
+5:I[73827,["$2"],"$4"]
+6:I[39756,["$2"],"default"]
+7:I[37457,["$2"],"default"]
+e:I[97367,["$2"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[97367,["$2"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$2"],"$14"]
+:HL["/kokuho-explorer-pages/_next/static/chunks/3ns_ta648jeaq.css","style"]
+9:X
+c:X
+c:C
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"space-y-4","children":[["$","h1",null,{"className":"font-serif text-2xl font-bold","children":"ページが見つかりません"}],["$","p",null,{"className":"text-muted","children":"URLが正しいかご確認ください。"}],["$","p",null,{"children":[["$","$L3",null,{"href":"/","children":"ホームへ戻る"}],"　／　",["$","$L3",null,{"href":"/search/","children":"国宝を探す"}]]}]]}],null,["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$9"}}]]
+a:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kokuho-explorer-pages/_next/static/chunks/3ns_ta648jeaq.css","precedence":"next"}],["$","script","script-0",{"src":"/kokuho-explorer-pages/_next/static/chunks/222way901mvk9.js","async":true}]],["$","html",null,{"lang":"ja","children":["$","body",null,{"className":"min-h-screen","children":[["$","a",null,{"href":"#main","className":"sr-only focus:not-sr-only focus:absolute focus:left-2 focus:top-2 focus:z-10 focus:bg-card focus:p-2","children":"本文へ移動"}],["$","header",null,{"className":"border-b border-line bg-card","children":["$","div",null,{"className":"mx-auto flex max-w-5xl flex-wrap items-center justify-between gap-x-6 gap-y-2 px-4 py-3","children":[["$","$L3",null,{"href":"/","className":"font-serif text-xl font-bold !text-ink no-underline","children":"国宝探索"}],["$","nav",null,{"aria-label":"主なメニュー","children":["$","ul",null,{"className":"flex gap-x-5 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/search/","children":"国宝を探す"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/visited/","children":"見た国宝"}]}]]}]}]]}]}],["$","main",null,{"id":"main","className":"mx-auto max-w-5xl px-4 py-8","children":[["$","$L5",null,{}],["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}],"notFound":[["$","div",null,{"className":"space-y-4","children":[["$","h1",null,{"className":"font-serif text-2xl font-bold","children":"ページが見つかりません"}],["$","p",null,{"className":"text-muted","children":"URLが正しいかご確認ください。"}],["$","p",null,{"children":[["$","$L3",null,{"href":"/","children":"ホームへ戻る"}],"　／　",["$","$L3",null,{"href":"/search/","children":"国宝を探す"}]]}]]}],[]]}]]}],["$","footer",null,{"className":"mt-16 border-t border-line bg-card","children":["$","div",null,{"className":"mx-auto max-w-5xl space-y-2 px-4 py-6 text-sm text-muted","children":[["$","p",null,{"children":["国宝の指定情報は、",["$","a",null,{"href":"http://kunishitei.bunka.go.jp/bsys/index","rel":"noopener noreferrer","children":"国指定文化財等データベース（文化庁）"}],"のデータを、改変せずに表示しています。"]}],["$","p",null,{"children":["データ取得日: ","2026-11-14","／掲載件数: ","1,150","件"]}],["$","p",null,{"children":"解説・別名・画像は、出典と権利を確認できたものだけを掲載しています。"}]]}]}]]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"国宝探索"}],["$","meta","1",{"name":"description","content":"日本の国宝を検索し、まだ知らない国宝と出会うためのデジタル図鑑。"}]]}]}],null]}],null]}],"p":"$@16","v":null,"s":"$9"}},"a":"$@17","u":"$@18","b":"kiEKW0Ak7mIVNdIMKXKbA"}
+10:null
+9:300
+18:true
+9:C
+17:0
+b:"$undefined"
+8:"$undefined"
+16:"$undefined"
+11:"$undefined"
